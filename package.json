@@ -1,0 +1,8 @@
+{
+  "name": "react-webpack5-cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:WanQuanXie/react-webpack5-cli.git",
+  "author": "xiewq <xiewq@agilean.cn>",
+  "license": "MIT"
+}
